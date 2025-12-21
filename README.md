@@ -9,11 +9,17 @@ If your host doesn't support Bedrock (common on free hosts), you can use this ut
 ## what are the available JS runtimes?
 
 ### Node.js
-```bashnode TheCube```
+```bash
+node TheCube
+```
 ### Bun
-```bashbun run TheCube```
+```bash
+bun run TheCube
+```
 ### Deno
-```bashdeno run --allow-all TheCube/index.js```
+```bash
+deno run --allow-all TheCube/index.js
+```
 
 ## Tutorial: Setting up InstallationCopy 
 
